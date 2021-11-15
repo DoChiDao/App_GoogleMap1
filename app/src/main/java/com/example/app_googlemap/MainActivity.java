@@ -18,6 +18,10 @@ public class MainActivity extends AppCompatActivity {
 
         String m = "Tôi bị khùng";
 
+        int l = 12;
+
+
+
 
     }
 }
