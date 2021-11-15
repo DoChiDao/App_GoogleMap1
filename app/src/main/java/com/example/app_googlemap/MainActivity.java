@@ -13,9 +13,10 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_main);
 
-        int a = 1;
 
         String k = "Đạo khùng";
+
+        String m = "Tôi bị khùng";
 
 
     }
