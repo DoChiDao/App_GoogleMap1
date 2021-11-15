@@ -13,11 +13,17 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_main);
 
-
+        String a = "";
         String k = "Đạo khùng";
 
         String m = "Tôi bị khùng";
 
       String d = "dang nhap ne";
+
+      String qko = "s";
+
+      
+
+
     }
 }
