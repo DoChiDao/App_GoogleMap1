@@ -18,7 +18,9 @@ public class MainActivity extends AppCompatActivity {
 
         String m = "Tôi bị khùng";
 
+
       String d = "dang nhap ne";
+
 
       String l = "p";
     }
